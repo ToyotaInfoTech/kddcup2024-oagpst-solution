@@ -43,7 +43,7 @@ And please download the DBLP-Citation-network V16 from [DBLP](https://open.amine
 
 ## Main Approach
 
-![Main Approch](https://github.com/piendata/kddcup_oag-challenge-pst_rank6/blob/main/process.jpg "Main Approach")
+![Main Approch](https://github.com/ToyotaInfoTech/kddcup2024-oagpst-solution/blob/main/process.jpg "Main Approach")
 
 
 
